@@ -31,5 +31,17 @@
 - Permite informa uma chave de pesquisa e caso algum curso atende a essa condição deverá ser mostrado em tela.
 
 ## Veja como ficou o website
-- Home:
+
+- HOME Inicial Usuário:
+![](Home.PNG)
+
+- Busca do Site:
+![](Busca.PNG)
+
+- Login Administrador:
+![](Login-Administrador.PNG)
+
+- Home Adinistrador:
 ![](Home-Administrador.PNG)
+
+
