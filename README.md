@@ -32,4 +32,4 @@
 
 ## Veja como ficou o website
 - Home:
-![](https://imgur.com/o8TAXLy)
+![](Home-Administrador.PNG)
